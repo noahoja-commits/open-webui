@@ -1,0 +1,6 @@
+---
+description: Fork doctrine
+alwaysApply: true
+---
+
+Follow AGENTS.md. Small diffs. No secrets. Document how to point at Kimi; do not rewrite Open WebUI.
